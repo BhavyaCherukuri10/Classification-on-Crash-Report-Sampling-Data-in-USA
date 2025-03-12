@@ -1,2 +1,5 @@
-# Classification-on-Crash-Report-Sampling-Data-in-USA
-Researched on recent vehicle crash data to identify key injury severity factors and developed a predictive model using machine learning for accurate classification of minor versus major/fatal crashes.
+# Classicication-project-on-CRSS-Data
+Logistic regression and Random forest. Focuses on modeling and data engineering techniques.
+
+Download the code file Link: https://www.nhtsa.gov/file-downloads?p=nhtsa/downloads/CRSS/
+For years 2019,2020,2021. Save them with names: CRSS2019CSV, CRSS2020CSV, CRSS2021CSV
